@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Atmaji Setya P</title>
+    <title>Atmaji Setya Pangest</title>
     <?php require_once "bootstrap.php"; ?>
 </head>    
 <body>
