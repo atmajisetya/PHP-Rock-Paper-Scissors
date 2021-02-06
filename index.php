@@ -11,7 +11,7 @@
             <a href="login.php">Please Log In</a>
         </p>
         <p> Attempt to go to <a href="game.php">game.php</a>
-            without loggin in - it should fail with an error message.
+            without loggin in - it should fail with an 'ERROR MESSAGE'.
         </p>
     </div>
 </body>
